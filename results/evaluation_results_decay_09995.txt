@@ -1,0 +1,8 @@
+Treasure Hunter - DQN Evaluation
+========================================
+Episodes: 30
+Exploration: Disabled
+Success rate: 100.0%
+Average reward: 29.20
+Average steps: 10.00
+Successful runs: 30/30
