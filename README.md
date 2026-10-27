@@ -130,7 +130,8 @@ The original trained model achieved the following results on the fixed map:
 <img width="1500" height="750" alt="epsilon_reward_comparison" src="https://github.com/user-attachments/assets/2629c45a-010b-4fcc-96b4-e1318a3d0604" />
 ## epsilon-decay reward comparison
 <img width="1500" height="750" alt="epsilon_success_comparison" src="https://github.com/user-attachments/assets/d5aac6a6-d1f2-4cc4-80a0-9aa9f9ddb1f6" />
-## epsilon-decay success comparison
+
+##  epsilon-decay success comparison
 
 
 
