@@ -6,6 +6,8 @@
 Treasure Hunter is a reinforcement learning mini-project in which an autonomous agent learns to collect a treasure, avoid traps and obstacles, and reach an exit in a grid-based environment.
 
 The agent uses a Deep Q-Network (DQN) implemented in PyTorch. It learns from rewards and previous experiences, and its performance is evaluated using training curves, success rate, average reward, and steps required to complete the task.
+
+
 <img width="340" height="327" alt="image" src="https://github.com/user-attachments/assets/c171fd4b-aeb7-43ea-98e5-df53c86cf5d0" />
 
 ## Features
@@ -129,6 +131,9 @@ The original trained model achieved the following results on the fixed map:
 ## epsilon-decay reward comparison
 <img width="1500" height="750" alt="epsilon_success_comparison" src="https://github.com/user-attachments/assets/d5aac6a6-d1f2-4cc4-80a0-9aa9f9ddb1f6" />
 ## epsilon-decay success comparison
+
+
+
 | Metric | Result |
 |---|---:|
 | Training episodes | 1,000 |
